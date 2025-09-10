@@ -1,3 +1,5 @@
+
+*/
 <div align="center">
 
 # 🧭 CodeCompass
@@ -5,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/Connect-Shadil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shadil)
 [![Organization](https://img.shields.io/badge/Founded-2024-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeCompasss)
-[![Top Developer](https://img.shields.io/badge/Top-0.1%25-gold?style=for-the-badge&logo=star&logoColor=white)](https://github.com/CodeCompasss)
 
 ---
 
@@ -32,6 +33,7 @@ To provide developers and organizations with the tools, frameworks, and guidance
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shadil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shadil)
 
 A visionary developer and architect with a passion for creating scalable, maintainable, and innovative software solutions. Leading CodeCompass with a commitment to excellence and continuous learning.
+<!--
 
 ## 🛠️ Technology Stack
 
@@ -108,23 +110,7 @@ We believe in the power of collaboration! Here's how you can join our journey:
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
 
-## 🏆 Recognition & Achievements
 
-<div align="center">
-
-### 🥇 Awards & Certifications
-- **Top 0.1% Developer** - GitHub Global Rankings
-- **Open Source Contributor** - Major framework contributions
-- **Innovation Award** - Breakthrough technical solutions
-- **Community Leader** - Developer ecosystem building
-
-### 📈 Growth Metrics
-- **500%** increase in community engagement (2024)
-- **300%** growth in project contributions
-- **200%** improvement in code quality standards
-- **100%** of projects with comprehensive documentation
-
-</div>
 
 ## 🔗 Connect With Us
 
