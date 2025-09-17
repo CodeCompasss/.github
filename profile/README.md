@@ -31,6 +31,10 @@ To provide developers and organizations with the tools, frameworks, and guidance
 
 A visionary developer and architect with a passion for creating scalable, maintainable, and innovative software solutions. Leading CodeCompass with a commitment to excellence and continuous learning.
 
+### [Sooraj Krishna K P- Co-Founder & Developer](https://www.linkedin.com/in/sooraj-krishna-k-p-9030642b1/)
+
+Innovative developer and co-founder dedicated to building scalable and user-centric software solutions. Driving CodeCompass with a focus on technical excellence, collaboration, and continuous growth.
+
 
 ## 🤝 Contributing
 
