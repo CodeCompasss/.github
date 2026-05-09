@@ -1,29 +1,22 @@
 <div align="center">
 
 # 🧭 CodeCompass
-### *Navigating the Future of Software Development*
 
 [![LinkedIn](https://img.shields.io/badge/Connect-Shadil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shadil)
 [![Organization](https://img.shields.io/badge/Founded-2024-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeCompasss)
 
----
 
-*"Charting the course through complex codebases and innovative solutions"*
+CodeCompass is an open-source initiative focused on building tools, guides, and collaborative platforms for computer science students.
 
-</div>
+We create practical projects that help students learn development, collaborate on ideas, and navigate technical education more effectively.
 
-## 🚀 About CodeCompass
+Our focus areas include:
 
-Welcome to **CodeCompass** – where innovation meets execution. We are a cutting-edge software development organization dedicated to building exceptional digital solutions that push the boundaries of what's possible.
-
-### 🎯 Our Mission
-To provide developers and organizations with the tools, frameworks, and guidance needed to navigate the ever-evolving landscape of modern software development.
-
-### ⭐ What Sets Us Apart
-- **Innovation-First Approach**: We don't just follow trends; we create them
-- **Quality Obsessed**: Every line of code is crafted with precision and purpose
-- **Community-Driven**: Built by developers, for developers
-- **Future-Ready**: Preparing for tomorrow's challenges today
+* developer onboarding
+* student productivity tools
+* open-source learning
+* academic project infrastructure
+* career preparation resources
 
 ## 👨‍💻 Leadership
 
