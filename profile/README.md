@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect-Shadil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shadil)
 [![Organization](https://img.shields.io/badge/Founded-2024-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeCompasss)
 
-
+</div>
 CodeCompass is an open-source initiative focused on building tools, guides, and collaborative platforms for computer science students.
 
 We create practical projects that help students learn development, collaborate on ideas, and navigate technical education more effectively.
